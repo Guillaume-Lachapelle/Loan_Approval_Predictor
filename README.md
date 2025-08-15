@@ -1,4 +1,4 @@
-# Loan_Approval_Predictor
+# Loan Approval Predictor
 
 ## Overview
 
